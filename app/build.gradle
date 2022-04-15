@@ -52,4 +52,6 @@ dependencies {
 // To make a call to for getting Coordinates response from a Web URL
 
     implementation 'com.squareup.okhttp3:okhttp:4.9.0'
+    implementation 'com.android.volley:volley:1.0.0'
+
 }
